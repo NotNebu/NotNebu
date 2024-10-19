@@ -37,7 +37,7 @@
 
 ## 🚀 Projects
 
-- [No Light RPG](https://github.com/NotNebu/NoLightRPG) - A text-based CLI RPG game in C# with exploration, combat, and dynamic storylines.
+- [No Light RPG](https://github.com/NotNebu/No-Light) - A text-based CLI RPG game in C# with exploration, combat, and dynamic storylines.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Expert-blue?style=for-the-badge&logo=csharp">
