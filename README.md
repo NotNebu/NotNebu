@@ -3,7 +3,7 @@
 
 ## My Portfolio
 
-You can check out my portfolio [here](https://notnebu.github.io/Portfolio/).
+You can check out my portfolio [here](https://reactportfolio-six-nu.vercel.app/).
 
 ## 🛠️ Languages and Tools
 
