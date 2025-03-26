@@ -3,7 +3,7 @@
 
 ## My Portfolio
 
-You can check out my portfolio [here](https://reactportfolio-six-nu.vercel.app/).
+You can check out my portfolio [here](https://alexanderjannikdj.vercel.app/).
 
 ## 🛠️ Languages and Tools
 
