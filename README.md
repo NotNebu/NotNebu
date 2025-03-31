@@ -35,7 +35,6 @@ Currently diving deep into:
 
 - 🧩 [Pokédex (WEB2 Project)](https://github.com/NotNebu/WEB2_Pokedex) – Advanced Pokédex using React + TailwindCSS  
   🔗 [Live Demo](https://web2-pokedex.vercel.app/)  
-  ![CI](https://github.com/NotNebu/WEB2_Pokedex/actions/workflows/node.js.yml/badge.svg)
 
 ---
 
