@@ -14,7 +14,7 @@
 I’m a software developer passionate about blending modern technologies with creative, efficient solutions.  
 Currently diving deep into:
 
-- 🌱 Fullstack development using React, .NET, and YARP API Gateway  
+- 🌱 Fullstack development using React, .NET, and YARP 
 - ⚙️ DevOps workflows with Docker, CI/CD, and cloud deployment  
 - 🌐 Building sleek UIs with TailwindCSS and React  
 - 🧠 Machine Learning & IoT integrations for smart systems  
