@@ -24,7 +24,7 @@ Currently diving deep into:
 
 ## 🚀 Featured Projects
 
-- 🔁 [**SEP4 YARP Gateway**](https://github.com/NotNebu/SEP4_Yarp_Gateway) – .NET-based API Gateway with route control, logging, and CI/CD  
+- 🔁 [**SEP4 YARP Gateway**](https://github.com/NotNebu/SEP4_Yarp_Gateway) – .NET-based API Gateway with route control
   ![Build and Push YARP Gateway](https://github.com/NotNebu/SEP4_Yarp_Gateway/actions/workflows/deploy.yml/badge.svg)
 
 - 🧍 [SEP4 User Service](https://github.com/NotNebu/SEP4_User_Service) – .NET backend microservice with authentication and PostgreSQL  
