@@ -77,27 +77,4 @@ Currently diving deep into:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notnebu&show_icons=true&theme=github_dark" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notnebu&theme=github-dark-blue" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notnebu&layout=compact&theme=github_dark" alt="Top languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notnebu&theme=onedark&no-bg=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-Expert-blue?style=for-the-badge&logo=csharp">
-  <img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/github/followers/notnebu?label=Followers&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/notnebu?label=Stars&style=for-the-badge">
-</p>
