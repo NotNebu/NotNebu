@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+
 <p align="center">
   <a href="https://alexanderjannikdj.vercel.app/">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/alexanderjannikdj/">💼 LinkedIn</a>
