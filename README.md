@@ -1,12 +1,3 @@
-
-<p align="center">
-  <a href="https://alexanderjannikdj.vercel.app/">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/alexanderjannikdj/">💼 LinkedIn</a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notnebu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ##  Featured Projects
 
 - [**SEP4 YARP Gateway**](https://github.com/NotNebu/SEP4_Yarp_Gateway) – .NET-based API Gateway with route control
